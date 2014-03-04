@@ -1,0 +1,9 @@
+gen
+bin
+target
+.settings
+.classpath
+.project
+/obj
+.cproject
+.classpath
